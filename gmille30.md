@@ -8,7 +8,7 @@
 I am a Junior CS major. I'm local to Knoxville. I intend to work in cyber security, specifically with national security and other government related fields. Aside from learning computer science I am also attempting to learn Arabic here at UTK.
      
 ### Interests and Hobbies:
-Computer science and electronics are my major passions, however I do have other interests. I live on a small farm which allows me to: raise animals, garden, etc. Aside from this I also enjoy machining, welding, and general building / tinkering. For a very generalized understanding of my interests see the following site: https://makerfaire.com/
+Computer science and electronics are my major passions, however I do have other interests. I live on a small farm which allows me to: raise animals, garden, etc. Aside from this I also enjoy machining, welding, and general building / tinkering. For a very generalized understanding of my interests checkout [Makerfaire](https://makerfaire.com/)
 
 ### Familiarities and Experience:
 Listed below are the programming languages I have experience with in order of profenciency
